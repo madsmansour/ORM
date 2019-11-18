@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-demp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.11",
+    "mysql2": "^2.0.0",
+    "sequelize": "^5.21.2"
+  }
+}
